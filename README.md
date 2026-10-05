@@ -1,0 +1,1 @@
+This project is a recipe website aimed at practising the basic html skills learnt so far.
